@@ -1,0 +1,22 @@
+{
+  "name": "functional_app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahrjarrett/functional_app.git"
+  },
+  "author": "Andrew Jarrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahrjarrett/functional_app/issues"
+  },
+  "homepage": "https://github.com/ahrjarrett/functional_app#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
